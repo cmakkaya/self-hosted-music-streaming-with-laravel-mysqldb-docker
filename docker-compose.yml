@@ -1,0 +1,59 @@
+services:
+  application:
+    image: phanan/koel
+    container_name: music-streaming
+    restart: unless-stopped
+    depends_on:
+      - database
+    ports:
+      - "80:80"
+    environment:
+      - DB_CONNECTION=mysql
+      - DB_HOST=database
+      - DB_USERNAME=cumhur
+      - DB_PASSWORD="your-password"
+      - DB_DATABASE=koel
+      - MEMORY_LIMIT=512
+    volumes:
+      - music:/music
+      - covers:/var/www/html/public/img/covers
+      - search_index:/var/www/html/storage/search-indexes
+    networks:
+      - streaming-network   
+    deploy:
+      resources:
+        limits:
+          memory: 1024M   
+        reservations:
+          memory: 512M            
+
+  database:
+    image: mysql:8.0
+    container_name: database
+    restart: unless-stopped
+    volumes:
+      - db:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=Ab123456789?
+      - MYSQL_DATABASE=koel
+      - MYSQL_USER=cumhur
+      - MYSQL_PASSWORD="your-password"
+    networks:
+      - streaming-network
+    deploy:
+      resources:
+        limits:
+          memory: 1024M     
+        reservations:
+          memory: 512M          
+
+volumes:
+  db:
+  music:
+  covers:
+  search_index:
+  
+networks:
+  streaming-network:
+    driver: bridge
+    name: streaming-network  
