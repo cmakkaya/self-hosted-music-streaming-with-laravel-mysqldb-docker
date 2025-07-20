@@ -3,6 +3,7 @@
 
 In a world dominated by Spotify and Apple Music, wouldn't you love to build your own music streaming platform for free? We'll build a modern solution with Laravel, Vue.js, MySQL DB, and Docker. In this article, I'll show you how to deploy Koel using Docker, dive into its Laravel-powered backend, and explore key artisan commands to get the most out of your self-hosted Spotify clone.
 
+## 
 ## 📗 Medium Articles Link:
 
 We'll not only explore the theoretical concepts behind building scalable PHP applications, but also dive deep into a hands-on, self-hosted music streaming solution using Laravel, MySQL, and Docker. In this guide, you'll learn how to set up the entire stack from scratch, configure environment variables, initialize the database, and deploy your Laravel-based Koel music server in a containerized environment. Whether you're just getting started with Laravel or looking to deploy real-world Laravel apps with Docker and MySQL, this comprehensive tutorial will help you bridge the gap between theory and practical implementation. 
@@ -11,7 +12,8 @@ Most importantly, we'll turn this knowledge into action by building and running 
 
 - [📝 Build Your Own Spotify with Laravel, MySQL DB, and Docker: The Complete Guide to Self-Hosted Music Streaming with Koel]()
 
-- ## Topics we will cover:
+## 
+## Topics we will cover:
 
 
 
@@ -26,6 +28,8 @@ I hope they are useful to you.
 
 🙏 I wish you growing success.
 
+
+## 
 ## 📗 Note: If you want to learn more about PHP and databases, you can read my Medium articles below. 
 
 - [📝 Working with Database-MSSQL Server (1): Introduction to Microsoft SQL Server and Explanation of what we will do in this series of articles.](https://cmakkaya.medium.com/working-database-1-introduction-microsoft-sql-server-and-explanation-of-what-we-will-do-in-this-105bebf66a55)
