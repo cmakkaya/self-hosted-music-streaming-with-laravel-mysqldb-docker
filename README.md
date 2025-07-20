@@ -36,7 +36,10 @@ I hope they are useful to you.
 
 - [📝 Working with Database (2): Running MS SQL Server and Webserver(Apache)+PHP Containers Together Using Docker Compose](https://cmakkaya.medium.com/working-with-database-2-running-ms-sql-server-and-webserver-apache-php-containers-together-3dea9a263105)
 
-<img width="1227" height="966" alt="image" src="https://github.com/user-attachments/assets/2414247d-443a-46f9-8cf7-fcec67bf6b59" />
+<img width="1295" height="769" alt="image" src="https://github.com/user-attachments/assets/24c464d0-ed0a-4624-91d4-586714b42257" />
+<img width="1430" height="826" alt="image" src="https://github.com/user-attachments/assets/992441c0-d11b-4b02-8d1d-ef2e3ff55a19" />
+<img width="1403" height="820" alt="image" src="https://github.com/user-attachments/assets/02acb2e5-98f1-461c-a140-d75712ddebdb" />
+
 
 ## 
 ## Connect with me 📫 You can learn more about me
