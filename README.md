@@ -14,7 +14,25 @@ Most importantly, we'll turn this knowledge into action by building and running 
 
 ## 
 ## Topics we will cover:
-
+1. What is Laravel?
+2. What Is Koel?
+* 2.1. Installing Koel
+* 2.1.1. Pre-compiled archive
+* 2.1.2. Source build (for customization)
+3. Step-by-Step Self-Hosted Music Streaming Installation Using Docker
+* 3.1. Prepearing a Docker Compose File
+* 3.1. Running The Docker Compose and Controling Output
+4. Configuration
+* 4.1. The php artisan koel:init command
+* 4.2. Default admin account
+* 4.3. Scan media folders
+* 4.4. Workdir: /var/www/html
+5. Controlling and Using the Self-Hosted Music Streaming App: Koel
+* 5.1. Upload via the Web Interface
+6. Clean Up
+7. Conclusion
+8. Next post: "Build Your Own Spotify with Laravel, MySQL DB, and Kubernetes: The Complete Guide to the Self-Hosted Music Streaming with Koel."
+9. References
 
 
 ## 
