@@ -17,7 +17,7 @@ Most importantly, we'll turn this knowledge into action by building and running 
 
 
 
-
+## 
 ## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 
 ✏️ Don't forget to follow [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/)  to be informed about new updates in the repository.
@@ -38,7 +38,7 @@ I hope they are useful to you.
 
 <img width="1227" height="966" alt="image" src="https://github.com/user-attachments/assets/2414247d-443a-46f9-8cf7-fcec67bf6b59" />
 
-
+## 
 ## Connect with me 📫 You can learn more about me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
