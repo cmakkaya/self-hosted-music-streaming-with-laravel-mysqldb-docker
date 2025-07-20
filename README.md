@@ -10,7 +10,7 @@ We'll not only explore the theoretical concepts behind building scalable PHP app
 
 Most importantly, we'll turn this knowledge into action by building and running your own music streaming platform on your server. We'll walk you through these steps practically, one by one, in this article.
 
-- [📝 Build Your Own Spotify with Laravel, MySQL DB, and Docker: The Complete Guide to Self-Hosted Music Streaming with Koel]()
+- [📝 Build Your Own Spotify with Laravel, MySQL DB, and Docker: The Complete Guide to Self-Hosted Music Streaming with Koel](https://cmakkaya.medium.com/build-your-own-spotify-with-laravel-mysql-db-and-docker-the-complete-guide-to-the-self-hosted-6b6c6ef49aa7)
 
 ## 
 ## Topics we will cover:
