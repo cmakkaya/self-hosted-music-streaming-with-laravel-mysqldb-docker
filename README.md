@@ -20,8 +20,8 @@ Most importantly, we'll turn this knowledge into action by building and running 
 * 2.1.1. Pre-compiled archive
 * 2.1.2. Source build (for customization)
 3. Step-by-Step Self-Hosted Music Streaming Installation Using Docker
-* 3.1. Prepearing a Docker Compose File
-* 3.1. Running The Docker Compose and Controling Output
+* 3.1. Preparing a Docker Compose File
+* 3.1. Running Docker Compose and Controlling Output
 4. Configuration
 * 4.1. The php artisan koel:init command
 * 4.2. Default admin account
